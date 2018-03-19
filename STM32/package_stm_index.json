@@ -422,6 +422,41 @@
           ]
         },
         {
+          "name": "CMSIS",
+          "version": "5.3.0",
+          "systems":
+          [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/CMSIS-5.3.0.tar.bz2",
+              "archiveFileName": "CMSIS-5.3.0.tar.bz2",
+              "checksum": "SHA-256:e0d0e95605f667d6b89a4e79b2df562c96bf7dc4060cbef22919db44d83a8e86",
+              "size": "42816664"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/CMSIS-5.3.0.tar.bz2",
+              "archiveFileName": "CMSIS-5.3.0.tar.bz2",
+              "checksum": "SHA-256:e0d0e95605f667d6b89a4e79b2df562c96bf7dc4060cbef22919db44d83a8e86",
+              "size": "42816664"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/CMSIS-5.3.0.tar.bz2",
+              "archiveFileName": "CMSIS-5.3.0.tar.bz2",
+              "checksum": "SHA-256:e0d0e95605f667d6b89a4e79b2df562c96bf7dc4060cbef22919db44d83a8e86",
+              "size": "42816664"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/tools/CMSIS-5.3.0.tar.bz2",
+              "archiveFileName": "CMSIS-5.3.0.tar.bz2",
+              "checksum": "SHA-256:e0d0e95605f667d6b89a4e79b2df562c96bf7dc4060cbef22919db44d83a8e86",
+              "size": "42816664"
+            }
+          ]
+        },
+        {
           "name": "STM32Tools",
           "version": "0.1.0",
           "systems": [
